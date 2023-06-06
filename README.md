@@ -1,4 +1,4 @@
-Password Cracker
+BruteForcer.py
 This repository contains a Python script for a password cracker. The script attempts to brute-force a login page by trying different passwords for a given username. It utilizes the requests library for making HTTP requests and the termcolor library for colored output.
 
 Prerequisites
